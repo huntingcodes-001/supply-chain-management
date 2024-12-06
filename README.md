@@ -1,6 +1,6 @@
 Please checkout this video for the system understanding 
 
-https://drive.google.com/file/d/140tqUxmH52xgzEAlqtgG4NZCfD14-R9F/view?usp=drive_link
+https://drive.google.com/file/d/1-PlHFHWlDxI4N4tiIenhdlkXwd_2UqpR/view
 
 ```
 python main.py -i <image_url> -db <database_path>
